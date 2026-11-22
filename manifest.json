@@ -1,0 +1,570 @@
+{
+  "title": "彰化縣新庄國小本土語文教學及臺灣母語日資源網",
+  "activities": [
+    {
+      "id": "indigenous_club",
+      "title": "原住民族樂舞與文化社團活動",
+      "category": "學校特色 - 原住民族社團",
+      "subpage": "school_feature",
+      "desc": "新庄國小原住民族文化社團，透過傳統樂舞、服飾體驗與文化吟唱，讓學童親身體驗臺灣原住民族珍貴文化精髓。",
+      "cover": "assets/images/activities/indigenous_club_01.jpg",
+      "images": [
+        "assets/images/activities/indigenous_club_01.jpg",
+        "assets/images/activities/indigenous_club_02.jpg",
+        "assets/images/activities/indigenous_club_03.jpg",
+        "assets/images/activities/indigenous_club_04.jpg",
+        "assets/images/activities/indigenous_club_05.jpg",
+        "assets/images/activities/indigenous_club_06.jpg",
+        "assets/images/activities/indigenous_club_07.jpg",
+        "assets/images/activities/indigenous_club_08.jpg",
+        "assets/images/activities/indigenous_club_09.jpg",
+        "assets/images/activities/indigenous_club_10.jpg",
+        "assets/images/activities/indigenous_club_11.jpg",
+        "assets/images/activities/indigenous_club_12.jpg",
+        "assets/images/activities/indigenous_club_13.jpg",
+        "assets/images/activities/indigenous_club_14.jpg",
+        "assets/images/activities/indigenous_club_15.jpg",
+        "assets/images/activities/indigenous_club_16.jpg",
+        "assets/images/activities/indigenous_club_17.jpg",
+        "assets/images/activities/indigenous_club_18.jpg",
+        "assets/images/activities/indigenous_club_19.jpg",
+        "assets/images/activities/indigenous_club_20.jpg"
+      ]
+    },
+    {
+      "id": "summer_blue_dye",
+      "title": "夏日樂學本土教育：傳統客家藍染工藝體驗",
+      "category": "學校特色 - 夏日樂學",
+      "subpage": "school_feature",
+      "desc": "學童認識傳統藍染植物大青，親手進行紮染、浸染與氧化顯色，體驗常民生活智慧與客家藍衫文化。",
+      "cover": "assets/images/activities/summer_blue_dye_01.jpg",
+      "images": [
+        "assets/images/activities/summer_blue_dye_01.jpg",
+        "assets/images/activities/summer_blue_dye_02.jpg",
+        "assets/images/activities/summer_blue_dye_03.jpg",
+        "assets/images/activities/summer_blue_dye_04.jpg",
+        "assets/images/activities/summer_blue_dye_05.jpg",
+        "assets/images/activities/summer_blue_dye_06.jpg",
+        "assets/images/activities/summer_blue_dye_07.jpg",
+        "assets/images/activities/summer_blue_dye_08.jpg"
+      ]
+    },
+    {
+      "id": "summer_rush_weaving",
+      "title": "夏日樂學本土教育：藺草編織生活工藝",
+      "category": "學校特色 - 夏日樂學",
+      "subpage": "school_feature",
+      "desc": "邀請工藝師傅入校指導，學童從認識藺草芬芳到動手穿梭編織，體驗臺灣傳統手作工藝美學與專注耐心。",
+      "cover": "assets/images/activities/summer_rush_weaving_01.jpg",
+      "images": [
+        "assets/images/activities/summer_rush_weaving_01.jpg",
+        "assets/images/activities/summer_rush_weaving_02.jpg",
+        "assets/images/activities/summer_rush_weaving_03.jpg",
+        "assets/images/activities/summer_rush_weaving_04.jpg",
+        "assets/images/activities/summer_rush_weaving_05.jpg",
+        "assets/images/activities/summer_rush_weaving_06.jpg",
+        "assets/images/activities/summer_rush_weaving_07.jpg",
+        "assets/images/activities/summer_rush_weaving_08.jpg"
+      ]
+    },
+    {
+      "id": "summer_toys",
+      "title": "夏日樂學本土教育：童玩手作與古早味體驗",
+      "category": "學校特色 - 夏日樂學",
+      "subpage": "school_feature",
+      "desc": "結合童玩文化與本土語詞彙，孩子們在打陀螺、踩高蹺與竹蜻蜓中笑聲連連，落實做中學與文化傳承。",
+      "cover": "assets/images/activities/summer_toys_01.jpg",
+      "images": [
+        "assets/images/activities/summer_toys_01.jpg",
+        "assets/images/activities/summer_toys_02.jpg",
+        "assets/images/activities/summer_toys_03.jpg",
+        "assets/images/activities/summer_toys_04.jpg",
+        "assets/images/activities/summer_toys_05.jpg"
+      ]
+    },
+    {
+      "id": "sign_language",
+      "title": "臺灣手語教學實踐活動",
+      "category": "課程與教學 - 活化本土語文教學",
+      "subpage": "curriculum_active",
+      "desc": "落實國家語言發展法，推動臺灣手語教學，引導學童認識無聲的美麗語言，建立包容與同理的友善校園。",
+      "cover": "assets/images/activities/sign_language_01.jpg",
+      "images": [
+        "assets/images/activities/sign_language_01.jpg",
+        "assets/images/activities/sign_language_02.jpg",
+        "assets/images/activities/sign_language_03.jpg",
+        "assets/images/activities/sign_language_04.jpg"
+      ]
+    },
+    {
+      "id": "open_class",
+      "title": "本土語文公開授課與教師觀議課實況",
+      "category": "課程與教學 - 活化本土語文教學",
+      "subpage": "curriculum_active",
+      "desc": "本土語文授課教師進行教學公開觀摩與議課，活化課堂教學策略，引導學童在生活情境中自然開口說母語。",
+      "cover": "assets/images/activities/open_class_01.jpg",
+      "images": [
+        "assets/images/activities/open_class_01.jpg",
+        "assets/images/activities/open_class_02.jpg",
+        "assets/images/activities/open_class_03.jpg",
+        "assets/images/activities/open_class_04.jpg",
+        "assets/images/activities/open_class_05.jpg",
+        "assets/images/activities/open_class_06.jpg",
+        "assets/images/activities/open_class_07.jpg",
+        "assets/images/activities/open_class_08.jpg",
+        "assets/images/activities/open_class_09.jpg",
+        "assets/images/activities/open_class_10.jpg",
+        "assets/images/activities/open_class_11.jpg",
+        "assets/images/activities/open_class_12.jpg",
+        "assets/images/activities/open_class_13.jpg"
+      ]
+    },
+    {
+      "id": "speech_contest",
+      "title": "本土語文競賽：閩南語演說比賽",
+      "category": "課程與教學 - 辦理教學或團體活動",
+      "subpage": "curriculum_activities",
+      "desc": "全校學童踴躍參賽，台上侃侃而談展現母語說話自信與流暢口條，呈現扎實多元的語文培訓成果。",
+      "cover": "assets/images/activities/speech_contest_01.jpg",
+      "images": [
+        "assets/images/activities/speech_contest_01.jpg",
+        "assets/images/activities/speech_contest_02.jpg",
+        "assets/images/activities/speech_contest_03.jpg",
+        "assets/images/activities/speech_contest_04.jpg",
+        "assets/images/activities/speech_contest_05.jpg",
+        "assets/images/activities/speech_contest_06.jpg",
+        "assets/images/activities/speech_contest_07.jpg",
+        "assets/images/activities/speech_contest_08.jpg",
+        "assets/images/activities/speech_contest_09.jpg"
+      ]
+    },
+    {
+      "id": "reading_contest",
+      "title": "本土語文競賽：閩南語朗讀比賽",
+      "category": "課程與教學 - 辦理教學或團體活動",
+      "subpage": "curriculum_activities",
+      "desc": "參賽同學字正腔圓、聲情並茂地朗讀經典本土語選文，體會台灣文學的聲韻之美與深厚內涵。",
+      "cover": "assets/images/activities/reading_contest_01.jpg",
+      "images": [
+        "assets/images/activities/reading_contest_01.jpg",
+        "assets/images/activities/reading_contest_02.jpg",
+        "assets/images/activities/reading_contest_03.jpg",
+        "assets/images/activities/reading_contest_04.jpg",
+        "assets/images/activities/reading_contest_05.jpg",
+        "assets/images/activities/reading_contest_06.jpg"
+      ]
+    },
+    {
+      "id": "art_in_school",
+      "title": "藝術入校推廣活動——「用本土文學-跳躍於聲波之中」",
+      "category": "行政規劃 - 結合社區共同建構臺灣母語環境",
+      "subpage": "admin_community",
+      "desc": "結合專業藝術工作者及社區文化資源走入校園，以本土文學為核心，讓母語結合聲音與律動發聲發光。",
+      "cover": "assets/images/activities/art_in_school_01.jpg",
+      "images": [
+        "assets/images/activities/art_in_school_01.jpg",
+        "assets/images/activities/art_in_school_02.jpg",
+        "assets/images/activities/art_in_school_03.jpg",
+        "assets/images/activities/art_in_school_04.jpg",
+        "assets/images/activities/art_in_school_05.jpg",
+        "assets/images/activities/art_in_school_06.jpg",
+        "assets/images/activities/art_in_school_07.jpg",
+        "assets/images/activities/art_in_school_08.jpg"
+      ]
+    },
+    {
+      "id": "campus_environment",
+      "title": "校園情境布置與母語標示專區",
+      "category": "行政規劃 - 校內積極營造臺灣母語情境",
+      "subpage": "admin_environment",
+      "desc": "校園穿堂設立「鄉土教學及諺語專區」、母語專欄及生動的生活母語標示，打造處處皆可學母語的浸潤環境。",
+      "cover": "assets/images/activities/campus_environment_01.jpg",
+      "images": [
+        "assets/images/activities/campus_environment_01.jpg",
+        "assets/images/activities/campus_environment_02.jpg",
+        "assets/images/activities/campus_environment_03.jpg",
+        "assets/images/activities/campus_environment_04.jpg",
+        "assets/images/activities/campus_environment_05.jpg",
+        "assets/images/activities/campus_environment_06.jpg",
+        "assets/images/activities/campus_environment_07.jpg",
+        "assets/images/activities/campus_environment_08.jpg"
+      ]
+    },
+    {
+      "id": "course_selection",
+      "title": "本土語文選課宣導與調查作業",
+      "category": "課程與教學 - 課程計畫規劃與執行",
+      "subpage": "curriculum_plan",
+      "desc": "落實學生本土語言選習意願調查，確實掌握學生需求並提供多元語種選修，輔導學童開展族群母語學習歷程。",
+      "cover": "assets/images/activities/course_selection_01.jpg",
+      "images": [
+        "assets/images/activities/course_selection_01.jpg",
+        "assets/images/activities/course_selection_02.jpg",
+        "assets/images/activities/course_selection_03.jpg",
+        "assets/images/activities/course_selection_04.jpg",
+        "assets/images/activities/course_selection_05.jpg",
+        "assets/images/activities/course_selection_06.jpg",
+        "assets/images/activities/course_selection_07.jpg",
+        "assets/images/activities/course_selection_08.jpg",
+        "assets/images/activities/course_selection_09.jpg",
+        "assets/images/activities/course_selection_10.jpg",
+        "assets/images/activities/course_selection_11.jpg",
+        "assets/images/activities/course_selection_12.jpg",
+        "assets/images/activities/course_selection_13.jpg",
+        "assets/images/activities/course_selection_14.jpg"
+      ]
+    },
+    {
+      "id": "mother_tongue_assembly",
+      "title": "週四臺灣母語日：學生朝會與每週一諺教學",
+      "category": "行政規劃 - 課間活動及學生朝會",
+      "subpage": "admin_assembly",
+      "desc": "每週四訂為全校臺灣母語日，於朝會進行「每週一諺」教學、課間廣播點播本土歌謠，營造自然的母語對話情境。",
+      "cover": "assets/images/activities/mother_tongue_assembly_01.jpg",
+      "images": [
+        "assets/images/activities/mother_tongue_assembly_01.jpg",
+        "assets/images/activities/mother_tongue_assembly_02.jpg",
+        "assets/images/activities/mother_tongue_assembly_03.jpg",
+        "assets/images/activities/mother_tongue_assembly_04.jpg",
+        "assets/images/activities/mother_tongue_assembly_05.jpg",
+        "assets/images/activities/mother_tongue_assembly_06.jpg",
+        "assets/images/activities/mother_tongue_assembly_07.jpg",
+        "assets/images/activities/mother_tongue_assembly_08.jpg",
+        "assets/images/activities/mother_tongue_assembly_09.jpg",
+        "assets/images/activities/mother_tongue_assembly_10.jpg",
+        "assets/images/activities/mother_tongue_assembly_11.jpg",
+        "assets/images/activities/mother_tongue_assembly_12.jpg",
+        "assets/images/activities/mother_tongue_assembly_13.jpg",
+        "assets/images/activities/mother_tongue_assembly_14.jpg",
+        "assets/images/activities/mother_tongue_assembly_15.jpg",
+        "assets/images/activities/mother_tongue_assembly_16.jpg",
+        "assets/images/activities/mother_tongue_assembly_17.jpg",
+        "assets/images/activities/mother_tongue_assembly_18.jpg",
+        "assets/images/activities/mother_tongue_assembly_19.jpg",
+        "assets/images/activities/mother_tongue_assembly_20.jpg",
+        "assets/images/activities/mother_tongue_assembly_21.jpg",
+        "assets/images/activities/mother_tongue_assembly_22.jpg",
+        "assets/images/activities/mother_tongue_assembly_23.jpg",
+        "assets/images/activities/mother_tongue_assembly_24.jpg",
+        "assets/images/activities/mother_tongue_assembly_25.jpg",
+        "assets/images/activities/mother_tongue_assembly_26.jpg",
+        "assets/images/activities/mother_tongue_assembly_27.jpg",
+        "assets/images/activities/mother_tongue_assembly_28.jpg",
+        "assets/images/activities/mother_tongue_assembly_29.jpg",
+        "assets/images/activities/mother_tongue_assembly_30.jpg",
+        "assets/images/activities/mother_tongue_assembly_31.jpg",
+        "assets/images/activities/mother_tongue_assembly_32.jpg"
+      ]
+    },
+    {
+      "id": "mother_tongue_day_series",
+      "title": "臺灣母語日系列節慶與推廣活動",
+      "category": "行政規劃 - 世界母語日活動",
+      "subpage": "admin_world_day",
+      "desc": "響應221世界母語日及臺灣母語日推展，辦理全校性母語歌謠傳唱、闖關遊戲與多元文化生活體驗。",
+      "cover": "assets/images/activities/mother_tongue_day_series_01.jpg",
+      "images": [
+        "assets/images/activities/mother_tongue_day_series_01.jpg",
+        "assets/images/activities/mother_tongue_day_series_02.jpg",
+        "assets/images/activities/mother_tongue_day_series_03.jpg",
+        "assets/images/activities/mother_tongue_day_series_04.jpg",
+        "assets/images/activities/mother_tongue_day_series_05.jpg",
+        "assets/images/activities/mother_tongue_day_series_06.jpg",
+        "assets/images/activities/mother_tongue_day_series_07.jpg",
+        "assets/images/activities/mother_tongue_day_series_08.jpg",
+        "assets/images/activities/mother_tongue_day_series_09.jpg",
+        "assets/images/activities/mother_tongue_day_series_10.jpg",
+        "assets/images/activities/mother_tongue_day_series_11.jpg",
+        "assets/images/activities/mother_tongue_day_series_12.jpg",
+        "assets/images/activities/mother_tongue_day_series_13.jpg",
+        "assets/images/activities/mother_tongue_day_series_14.jpg",
+        "assets/images/activities/mother_tongue_day_series_15.jpg",
+        "assets/images/activities/mother_tongue_day_series_16.jpg",
+        "assets/images/activities/mother_tongue_day_series_17.jpg",
+        "assets/images/activities/mother_tongue_day_series_18.jpg",
+        "assets/images/activities/mother_tongue_day_series_19.jpg",
+        "assets/images/activities/mother_tongue_day_series_20.jpg",
+        "assets/images/activities/mother_tongue_day_series_21.jpg",
+        "assets/images/activities/mother_tongue_day_series_22.jpg",
+        "assets/images/activities/mother_tongue_day_series_23.jpg",
+        "assets/images/activities/mother_tongue_day_series_24.jpg"
+      ]
+    }
+  ],
+  "creations": [
+    {
+      "year": "108",
+      "lang": "閩南語",
+      "title": "挽喙齒",
+      "author": "林子佑",
+      "advisor": "黃鈺雅、尤俊霖",
+      "award": "優選",
+      "preview": "assets/images/creations/creation_108_挽喙齒.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "108",
+      "lang": "閩南語",
+      "title": "恐怖ê虼蚻",
+      "author": "廖宥恩",
+      "advisor": "黃鈺雅、尤俊霖",
+      "award": "優選",
+      "preview": "assets/images/creations/creation_108_恐怖ê虼蚻.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "108",
+      "lang": "閩南語",
+      "title": "毒品誠恐怖",
+      "author": "林秉均",
+      "advisor": "黃鈺雅、尤俊霖",
+      "award": "優選",
+      "preview": "assets/images/creations/creation_108_毒品誠恐怖.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "108",
+      "lang": "閩南語",
+      "title": "莫閣叫伊外國新娘",
+      "author": "陳以崢",
+      "advisor": "黃鈺雅、尤俊霖",
+      "award": "優選",
+      "preview": "assets/images/creations/creation_108_莫閣叫伊外國新娘.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "108",
+      "lang": "客家語",
+      "title": "野菜飯个滋味",
+      "author": "林子畯",
+      "advisor": "黃鈺雅、徐貞文",
+      "award": "第二名",
+      "preview": "assets/images/creations/creation_108_野菜飯个滋味.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "108",
+      "lang": "原住民語",
+      "title": "獵山豬囉！",
+      "author": "陳子芊",
+      "advisor": "黃鈺雅、伍秀惠",
+      "award": "第一名",
+      "preview": "assets/images/creations/creation_108_獵山豬囉！_cover.jpg",
+      "pdf_link": "assets/images/creations/creation_108_獵山豬囉！.pdf"
+    },
+    {
+      "year": "109",
+      "lang": "客家語",
+      "title": "客家藍衫",
+      "author": "林子佑",
+      "advisor": "徐貞文、黃鈺雅",
+      "award": "第三名",
+      "preview": "assets/images/creations/creation_109_客家藍衫_cover.jpg",
+      "pdf_link": "assets/images/creations/creation_109_客家藍衫.pdf"
+    },
+    {
+      "year": "109",
+      "lang": "客家語",
+      "title": "有趣的藍染",
+      "author": "李昀蓁",
+      "advisor": "徐貞文、黃鈺雅",
+      "award": "第三名",
+      "preview": "assets/images/creations/creation_109_有趣的藍染_cover.jpg",
+      "pdf_link": "assets/images/creations/creation_109_有趣的藍染.pdf"
+    },
+    {
+      "year": "109",
+      "lang": "原住民語",
+      "title": "報時鳥",
+      "author": "廖宥恩",
+      "advisor": "許美惠、黃鈺雅",
+      "award": "第一名",
+      "preview": "assets/images/creations/creation_109_報時鳥_cover.jpg",
+      "pdf_link": "assets/images/creations/creation_109_報時鳥.pdf"
+    },
+    {
+      "year": "109",
+      "lang": "原住民語",
+      "title": "外婆的小米粽",
+      "author": "陳子芊",
+      "advisor": "許美惠、黃鈺雅",
+      "award": "第一名",
+      "preview": "assets/images/creations/creation_109_外婆的小米粽_cover.jpg",
+      "pdf_link": "assets/images/creations/creation_109_外婆的小米粽.pdf"
+    },
+    {
+      "year": "110",
+      "lang": "閩南語",
+      "title": "櫻花樹林",
+      "author": "李昀蓁",
+      "advisor": "黃鈺雅、尤俊霖",
+      "award": "甲等",
+      "preview": "assets/images/creations/creation_110_櫻花樹林.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "110",
+      "lang": "閩南語",
+      "title": "長尾山娘",
+      "author": "陳子芊",
+      "advisor": "黃鈺雅、尤俊霖",
+      "award": "甲等",
+      "preview": "assets/images/creations/creation_110_長尾山娘.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "110",
+      "lang": "客家語",
+      "title": "美麗个客家花布",
+      "author": "王語婕",
+      "advisor": "徐貞文、黃鈺雅",
+      "award": "優等",
+      "preview": "assets/images/creations/creation_110_美麗个客家花布_cover.jpg",
+      "pdf_link": "assets/images/creations/creation_110_美麗个客家花布.pdf"
+    },
+    {
+      "year": "110",
+      "lang": "客家語",
+      "title": "油桐花開哩",
+      "author": "廖宥恩",
+      "advisor": "徐貞文、黃鈺雅",
+      "award": "甲等",
+      "preview": "assets/images/creations/creation_110_油桐花開哩.jpg",
+      "pdf_link": null
+    },
+    {
+      "year": "110",
+      "lang": "客家語",
+      "title": "細雞子撞走吔",
+      "author": "林子佑",
+      "advisor": "黃秀枝、黃鈺雅",
+      "award": "甲等",
+      "preview": "assets/images/creations/creation_110_細雞子撞走吔.jpg",
+      "pdf_link": null
+    }
+  ],
+  "competitions": [],
+  "teachers": [
+    {
+      "name": "寶玉老師",
+      "role": "本土語文授課教師",
+      "image": "assets/images/teachers/teacher_寶玉老師.png"
+    },
+    {
+      "name": "惠貞老師",
+      "role": "本土語文授課教師",
+      "image": "assets/images/teachers/teacher_惠貞老師.png"
+    },
+    {
+      "name": "珮宜老師",
+      "role": "本土語文授課教師",
+      "image": "assets/images/teachers/teacher_珮宜老師.png"
+    },
+    {
+      "name": "雅鈴老師",
+      "role": "本土語文授課教師",
+      "image": "assets/images/teachers/teacher_雅鈴老師.png"
+    }
+  ],
+  "docs": [
+    {
+      "key": "plan_basic",
+      "title": "新庄國小本土語言教學實施計畫",
+      "category": "curriculum_plan",
+      "pdf_url": "assets/docs/plan_basic.pdf",
+      "preview_images": [
+        "assets/images/docs_preview/plan_basic_p1_1.jpg",
+        "assets/images/docs_preview/plan_basic_p2_1.jpg"
+      ]
+    },
+    {
+      "key": "mother_tongue_committee_chart",
+      "title": "新庄國小臺灣母語日推動委員會架構",
+      "category": "admin_committee",
+      "pdf_url": "assets/docs/mother_tongue_committee_chart.pdf",
+      "preview_images": [
+        "assets/images/docs_preview/mother_tongue_committee_chart_p1_1.jpg"
+      ]
+    },
+    {
+      "key": "mother_tongue_members",
+      "title": "新庄國小臺灣母語日推動小組名單與職掌",
+      "category": "admin_committee",
+      "pdf_url": "assets/docs/mother_tongue_members.pdf",
+      "preview_images": []
+    },
+    {
+      "key": "mother_tongue_plan",
+      "title": "新庄國小推動臺灣母語日活動實施計畫",
+      "category": "admin_committee",
+      "pdf_url": "assets/docs/mother_tongue_plan.pdf",
+      "preview_images": [
+        "assets/images/docs_preview/mother_tongue_plan_p1_1.jpg",
+        "assets/images/docs_preview/mother_tongue_plan_p2_1.jpg"
+      ]
+    },
+    {
+      "key": "mother_tongue_minutes",
+      "title": "新庄國小推動臺灣母語日實施計畫會議紀錄",
+      "category": "admin_committee",
+      "pdf_url": "assets/docs/mother_tongue_minutes.pdf",
+      "preview_images": []
+    },
+    {
+      "key": "mother_tongue_schedule",
+      "title": "新庄國小臺灣母語日推動小組成員及實施時程表",
+      "category": "admin_committee",
+      "pdf_url": "assets/docs/mother_tongue_schedule.pdf",
+      "preview_images": []
+    },
+    {
+      "key": "comp_113",
+      "title": "彰化縣113學年度臺灣母語繪本製作比賽得獎名單",
+      "category": "competitions",
+      "pdf_url": "assets/docs/comp_113.pdf",
+      "preview_images": []
+    },
+    {
+      "key": "comp_114",
+      "title": "彰化縣114學年度臺灣母語繪本製作比賽得獎名單",
+      "category": "competitions",
+      "pdf_url": "assets/docs/comp_114.pdf",
+      "preview_images": []
+    },
+    {
+      "key": "comp_112",
+      "title": "彰化縣112學年度臺灣母語繪本製作比賽得獎名單",
+      "category": "competitions",
+      "pdf_url": "assets/docs/comp_112.pdf",
+      "preview_images": []
+    }
+  ],
+  "videos": [
+    {
+      "title": "115年3月31日 臺灣母語日教學與活動紀實",
+      "desc": "學生朝會母語朗誦、每週一諺教學與學生趣味搶答精采剪輯。",
+      "url": "assets/videos/video_clip_01.mp4"
+    },
+    {
+      "title": "115年4月28日 課間母語日互動剪輯 (一)",
+      "desc": "學生在校園生活中以母語流暢對話與師生互動課堂記錄。",
+      "url": "assets/videos/video_clip_02.mp4"
+    },
+    {
+      "title": "115年4月28日 課間母語日互動剪輯 (二)",
+      "desc": "班級課堂母語歌謠傳唱及情境演練。",
+      "url": "assets/videos/video_clip_03.mp4"
+    },
+    {
+      "title": "115年5月19日 臺灣母語日歌謠與朗讀教學",
+      "desc": "母語教學結合節奏與肢體律動之課堂實況。",
+      "url": "assets/videos/video_clip_04.mp4"
+    },
+    {
+      "title": "115年4月1日 臺灣母語日主題朝會紀錄",
+      "desc": "全校師生齊聚朝會，由學生代表分享生活台語諺語及生活母語對答。",
+      "url": "assets/videos/video_clip_05.mp4"
+    }
+  ],
+  "links": []
+}
